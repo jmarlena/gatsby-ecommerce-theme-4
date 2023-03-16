@@ -20,7 +20,7 @@ const BlogPage = (props) => {
           maxWidth={'400px'}
           image={'/blogCover.png'}
           title={`The new standard of Closing`}
-          ctaLink={'read story'}
+          ctaLink={'Change your life'}
           ctaTo={'/blog/sample'}
           header={'design'}
         />
