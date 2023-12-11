@@ -19,7 +19,7 @@ const BlogPage = (props) => {
         <Hero
           maxWidth={'400px'}
           image={'/blogCover.png'}
-          title={`The new standard of Sipping tea`}
+          title={`The new standard of Sipping teas`}
           ctaLink={'read story'}
           ctaTo={'/blog/sample'}
           header={'design'}
